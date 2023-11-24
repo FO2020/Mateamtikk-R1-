@@ -1,2 +1,2 @@
 # Mateamtikk-R1-
-Legger ut løsningsforslag til eksamensoppgaver
+Legger ut opdatert løsningsforslag til eksamensoppgaver og eventuelle andre ting koblet til R1
